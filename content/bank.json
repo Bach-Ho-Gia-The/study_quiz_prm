@@ -1,0 +1,2868 @@
+[
+ {
+  "q": "Which widget pattern protects authenticated routes?",
+  "o": {
+   "A": "Navigator",
+   "B": "Guard",
+   "C": "Route protection",
+   "D": "Middleware"
+  },
+  "a": "B",
+  "id": "q001",
+  "src": [
+   "SP26_B5 · IMG_0058",
+   "SU26_Final · IMG_9234"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why are tests important for refactoring?",
+  "o": {
+   "A": "Reduce UI work",
+   "B": "Ensure changes don't break functionality",
+   "C": "Improve animations",
+   "D": "Change layout"
+  },
+  "a": "B",
+  "id": "q002",
+  "src": [
+   "SP26_B5 · IMG_0059"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What is the role of BuildContext in Flutter?",
+  "o": {
+   "A": "Store application data",
+   "B": "Locate widgets in the widget tree",
+   "C": "Manage navigation history",
+   "D": "Render UI pixels"
+  },
+  "a": "B",
+  "id": "q003",
+  "src": [
+   "SP26_B5 · IMG_0061",
+   "SU26_B5 · IMG_9183"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What role does the Flutter framework play in application development?",
+  "o": {
+   "A": "It manages database servers",
+   "B": "It provides UI components and rendering logic",
+   "C": "It replaces the operating system",
+   "D": "It runs backend business logic"
+  },
+  "a": "B",
+  "id": "q004",
+  "src": [
+   "SP26_B5 · IMG_0062",
+   "SU26_B5 · IMG_9173",
+   "SU26_Retake · IMG_9143"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "How is the Flutter UI constructed internally?",
+  "o": {
+   "A": "Using XML layout files",
+   "B": "Using HTML and CSS",
+   "C": "Using a hierarchical widget tree",
+   "D": "Using native UI components only"
+  },
+  "a": "C",
+  "id": "q005",
+  "src": [
+   "SP26_B5 · IMG_0063"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Which widget enables custom scroll effects in Flutter?",
+  "o": {
+   "A": "ListView",
+   "B": "SingleChildScrollView",
+   "C": "CustomScrollView",
+   "D": "Column"
+  },
+  "a": "C",
+  "id": "q006",
+  "src": [
+   "SP26_B5 · IMG_0064",
+   "SU26_B5 · IMG_9157"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which practice improves rendering performance?",
+  "o": {
+   "A": "large widget trees",
+   "B": "Splitting widgets",
+   "C": "Global state",
+   "D": "Frequent rebuilds"
+  },
+  "a": "B",
+  "id": "q007",
+  "src": [
+   "SP26_B5 · IMG_0065"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What does an integration test verify?",
+  "o": {
+   "A": "Single function",
+   "B": "Widget rendering",
+   "C": "End-to-end app behavior",
+   "D": "Theme consistency"
+  },
+  "a": "C",
+  "id": "q008",
+  "src": [
+   "SP26_B5 · IMG_0066",
+   "SU26_B5 · IMG_9167"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Why is separating UI and state logic recommended?",
+  "o": {
+   "A": "Reduce code size",
+   "B": "Improve maintainability",
+   "C": "Faster execution",
+   "D": "Better animations"
+  },
+  "a": "B",
+  "id": "q009",
+  "src": [
+   "SP26_B5 · IMG_0067",
+   "SU26_Final · IMG_9218"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "When does Flutter rebuild the widget tree?",
+  "o": {
+   "A": "On every frame",
+   "B": "When state changes",
+   "C": "Only when app restarts",
+   "D": "Only during hot restart"
+  },
+  "a": "B",
+  "id": "q010",
+  "src": [
+   "SP26_B5 · IMG_0068",
+   "SU26_B5 · IMG_9193"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which concept does BLoC heavily rely on?",
+  "o": {
+   "A": "Future",
+   "B": "Stream",
+   "C": "Animation",
+   "D": "Theme"
+  },
+  "a": "B",
+  "id": "q011",
+  "src": [
+   "SP26_B5 · IMG_0069"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why is version control critical?",
+  "o": {
+   "A": "UI changes",
+   "B": "Track and manage code changes",
+   "C": "Improve animations",
+   "D": "Store data"
+  },
+  "a": "B",
+  "id": "q012",
+  "src": [
+   "SP26_B5 · IMG_0070"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why is immutability important in BLoC states?",
+  "o": {
+   "A": "UI speed",
+   "B": "Predictable state changes",
+   "C": "Memory usage",
+   "D": "Theme control"
+  },
+  "a": "B",
+  "id": "q013",
+  "src": [
+   "SP26_B5 · IMG_0071",
+   "SU26_Final · IMG_9237"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which Flutter plugin provides SQLite support?",
+  "o": {
+   "A": "hive",
+   "B": "moor",
+   "C": "sqflite",
+   "D": "shared_preferences"
+  },
+  "a": "C",
+  "id": "q014",
+  "src": [
+   "SP26_B5 · IMG_0072",
+   "SU26_Final · IMG_9243",
+   "SU26_Retake · IMG_9152"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the main benefit of using Maps in Dart?",
+  "o": {
+   "A": "Storing values without keys",
+   "B": "Storing key-value pairs",
+   "C": "Rendering UI components",
+   "D": "Managing asynchronous tasks"
+  },
+  "a": "B",
+  "id": "q015",
+  "src": [
+   "SP26_B5 · IMG_0073",
+   "SU26_Retake · IMG_9144"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which tool helps analyze UI performance in Flutter?",
+  "o": {
+   "A": "Inspector",
+   "B": "DevTools",
+   "C": "Emulator",
+   "D": "Hot reload"
+  },
+  "a": "B",
+  "id": "q016",
+  "src": [
+   "SP26_B5 · IMG_0074"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What does a Dart class primarily represent?",
+  "o": {
+   "A": "AUI widget only",
+   "B": "A blueprint for creating objects",
+   "C": "A database table",
+   "D": "A network request"
+  },
+  "a": "B",
+  "id": "q017",
+  "src": [
+   "SP26_B5 · IMG_0075",
+   "SU26_B5 · IMG_9181",
+   "SU26_Retake · IMG_9103"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the purpose of SliverAppBar?",
+  "o": {
+   "A": "Static app bar",
+   "B": "Scrollable flexible app bar",
+   "C": "Bottom navigation",
+   "D": "Drawer control"
+  },
+  "a": "B",
+  "id": "q018",
+  "src": [
+   "SP26_B5 · IMG_0076",
+   "SP26_Final · IMG_0029"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "What is Hive mainly used for?",
+  "o": {
+   "A": "Remote database",
+   "B": "Lightweight local NoSQL storage",
+   "C": "State management",
+   "D": "Routing"
+  },
+  "a": "B",
+  "id": "q019",
+  "src": [
+   "SP26_B5 · IMG_0077",
+   "SU26_B5 · IMG_9185"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which HTTP header is commonly used for authorization?",
+  "o": {
+   "A": "Content-Type",
+   "B": "Accept",
+   "C": "Authorization",
+   "D": "Cache-Control"
+  },
+  "a": "C",
+  "id": "q020",
+  "src": [
+   "SP26_B5 · IMG_0078",
+   "SU26_Final · IMG_9245"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What does TextEditingController manage?",
+  "o": {
+   "A": "Theme",
+   "B": "Text input value",
+   "C": "Validation rules",
+   "D": "Layout constraints"
+  },
+  "a": "B",
+  "id": "q021",
+  "src": [
+   "SP26_B5 · IMG_0079"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why is Dart considered suitable for Flutter development?",
+  "o": {
+   "A": "It is only used for backend systems",
+   "B": "It supports both UI and application logic efficiently",
+   "C": "It replaces native languages",
+   "D": "It does not support asynchronous programming"
+  },
+  "a": "B",
+  "id": "q022",
+  "src": [
+   "SP26_B5 · IMG_0080"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What does the build() method return in a widget?",
+  "o": {
+   "A": "A screen",
+   "B": "A widget tree describing the UI",
+   "C": "Application state",
+   "D": "Rendered pixels"
+  },
+  "a": "B",
+  "id": "q023",
+  "src": [
+   "SP26_B5 · IMG_0081",
+   "SU26_Final · IMG_9214"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What represents the output of a BLoC?",
+  "o": {
+   "A": "Events",
+   "B": "Widgets",
+   "C": "States",
+   "D": "Controllers"
+  },
+  "a": "C",
+  "id": "q024",
+  "src": [
+   "SP26_B5 · IMG_0082",
+   "SU26_Retake · IMG_9134"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is Cubit in BLoC?",
+  "o": {
+   "A": "UI widget",
+   "B": "Simplified BLoC without events",
+   "C": "Database layer",
+   "D": "Animation helper"
+  },
+  "a": "B",
+  "id": "q025",
+  "src": [
+   "SP26_B5 · IMG_0083",
+   "SU26_B5 · IMG_9164"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which activity is typically performed after creating a new Flutter project?",
+  "o": {
+   "A": "Deploying to app stores",
+   "B": "Running the default app on a device",
+   "C": "Configuring authentication",
+   "D": "Optimizing database queries"
+  },
+  "a": "B",
+  "id": "q026",
+  "src": [
+   "SP26_B5 · IMG_0084"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Which practice improves deployment security?",
+  "o": {
+   "A": "Debug builds",
+   "B": "Secure signing keys",
+   "C": "Hardcoding secrets",
+   "D": "Skipping validation"
+  },
+  "a": "B",
+  "id": "q027",
+  "src": [
+   "SP26_B5 · IMG_0085"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why is Chapter 14 considered optional (Plus)?",
+  "o": {
+   "A": "Deployment is UI logic",
+   "B": "Apps can be tested without publishing",
+   "C": "It replaces authentication",
+   "D": "It handles APIs"
+  },
+  "a": "B",
+  "id": "q028",
+  "src": [
+   "SP26_B5 · IMG_0086"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What is the primary purpose of ThemeData in Flutter?",
+  "o": {
+   "A": "Manage navigation",
+   "B": "Define application-wide visual styles",
+   "C": "Handle state changes",
+   "D": "Control animations"
+  },
+  "a": "B",
+  "id": "q029",
+  "src": [
+   "SP26_B5 · IMG_0087",
+   "SU26_Retake · IMG_9140"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which method is used to update the UI when state changes?",
+  "o": {
+   "A": "build()",
+   "B": "setState()",
+   "C": "initState()",
+   "D": "dispose()"
+  },
+  "a": "B",
+  "id": "q030",
+  "src": [
+   "SP26_B5 · IMG_0088",
+   "SU26_Retake · IMG_9116"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which Flutter package is commonly used for simple key-value storage?",
+  "o": {
+   "A": "sqflite",
+   "B": "shared_preferences",
+   "C": "provider",
+   "D": "http"
+  },
+  "a": "B",
+  "id": "q031",
+  "src": [
+   "SP26_B5 · IMG_0089"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why should architecture be decided early?",
+  "o": {
+   "A": "Avoid UI work",
+   "B": "Reduce refactoring cost",
+   "C": "Improve animations",
+   "D": "Change theme"
+  },
+  "a": "B",
+  "id": "q032",
+  "src": [
+   "SP26_B5 · IMG_0090",
+   "SU26_Final · IMG_9219"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is pagination used for?",
+  "o": {
+   "A": "UI animation",
+   "B": "Handling large datasets efficiently",
+   "C": "Theme management",
+   "D": "Authentication"
+  },
+  "a": "B",
+  "id": "q033",
+  "src": [
+   "SP26_B5 · IMG_0091",
+   "SU26_B5 · IMG_9178",
+   "SU26_Retake · IMG_9108"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget helps avoid rebuilding unchanged UI parts?",
+  "o": {
+   "A": "Container",
+   "B": "RepaintBoundary",
+   "C": "Column",
+   "D": "FutureBuilder"
+  },
+  "a": "B",
+  "id": "q034",
+  "src": [
+   "SP26_B5 · IMG_0092",
+   "SU26_B5 · IMG_9165"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which widget is used to handle asynchronous API responses in UI?",
+  "o": {
+   "A": "FutureBuilder",
+   "B": "ListView",
+   "C": "Provider",
+   "D": "Form"
+  },
+  "a": "A",
+  "id": "q035",
+  "src": [
+   "SP26_B5 · IMG_0093"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Which Dart feature helps organize code into reusable libraries?",
+  "o": {
+   "A": "Widgets",
+   "B": "Packages and imports",
+   "C": "Hot reload",
+   "D": "Layout constraints"
+  },
+  "a": "B",
+  "id": "q036",
+  "src": [
+   "SP26_B5 · IMG_0094"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What is refresh token used for?",
+  "o": {
+   "A": "UI refresh",
+   "B": "Extend session without re-login",
+   "C": "Theme update",
+   "D": "Navigation reset"
+  },
+  "a": "B",
+  "id": "q037",
+  "src": [
+   "SP26_B5 · IMG_0095"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What is rebuild scope optimization in Flutter?",
+  "o": {
+   "A": "Reducing widget tree depth",
+   "B": "Limiting rebuild to affected widgets",
+   "C": "Caching API responses",
+   "D": "Using global state"
+  },
+  "a": "B",
+  "id": "q038",
+  "src": [
+   "SP26_B5 · IMG_0096",
+   "SU26_B5 · IMG_9156",
+   "SU26_Retake · IMG_9110"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why is BLoC suitable for large teams?",
+  "o": {
+   "A": "Less code",
+   "B": "Standardized architecture",
+   "C": "Faster builds",
+   "D": "UI reuse"
+  },
+  "a": "B",
+  "id": "q039",
+  "src": [
+   "SP26_B5 · IMG_0097"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Which widget reacts to async data from local storage?",
+  "o": {
+   "A": "FutureBuilder",
+   "B": "StreamBuilder",
+   "C": "ListView",
+   "D": "Provider"
+  },
+  "a": "A",
+  "id": "q040",
+  "src": [
+   "SP26_B5 · IMG_0098",
+   "SP26_Final · IMG_0051",
+   "SU26_Final · IMG_9223"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is a token in authentication systems?",
+  "o": {
+   "A": "UI key",
+   "B": "Temporary access credential",
+   "C": "Database ID",
+   "D": "Theme value"
+  },
+  "a": "B",
+  "id": "q041",
+  "src": [
+   "SP26_B5 · IMG_0099"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What does a Tween define?",
+  "o": {
+   "A": "Animation speed",
+   "B": "Value range for animation",
+   "C": "UI layout",
+   "D": "State logic"
+  },
+  "a": "B",
+  "id": "q042",
+  "src": [
+   "SP26_B5 · IMG_0100",
+   "SU26_B5 · IMG_9177"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which Dart feature allows defining reusable, type-safe components?",
+  "o": {
+   "A": "Mixins",
+   "B": "Generics",
+   "C": "Futures",
+   "D": "Streams"
+  },
+  "a": "B",
+  "id": "q043",
+  "src": [
+   "SP26_B5 · IMG_0101"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Which widget animates between two widgets?",
+  "o": {
+   "A": "AnimatedSwitcher",
+   "B": "AnimatedOpacity",
+   "C": "AnimatedAlign",
+   "D": "AnimatedSize"
+  },
+  "a": "A",
+  "id": "q044",
+  "src": [
+   "SP26_B5 · IMG_0102",
+   "SU26_Retake · IMG_9115"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why should setState() be called sparingly?",
+  "o": {
+   "A": "It increases app size",
+   "B": "It may trigger unnecessary rebuilds",
+   "C": "It blocks UI thread",
+   "D": "It causes memory leaks"
+  },
+  "a": "B",
+  "id": "q045",
+  "src": [
+   "SP26_B5 · IMG_0103",
+   "SU26_Retake · IMG_9124"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is test isolation?",
+  "o": {
+   "A": "Running all tests together",
+   "B": "Independence of test cases",
+   "C": "UI separation",
+   "D": "Mocking only"
+  },
+  "a": "B",
+  "id": "q046",
+  "src": [
+   "SP26_B5 · IMG_0104"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "What does crossAxisAlignment control?",
+  "o": {
+   "A": "Vertical alignment in Column",
+   "B": "Horizontal alignment in Column",
+   "C": "Child order",
+   "D": "Widget size"
+  },
+  "a": "B",
+  "id": "q047",
+  "src": [
+   "SP26_B5 · IMG_0105",
+   "SU26_Final · IMG_9238"
+  ],
+  "sets": [
+   "SP26_B5",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which tool is commonly used for version control?",
+  "o": {
+   "A": "SVN",
+   "B": "Git",
+   "C": "FTP",
+   "D": "ZIP"
+  },
+  "a": "B",
+  "id": "q048",
+  "src": [
+   "SP26_B5 · IMG_0106"
+  ],
+  "sets": [
+   "SP26_B5"
+  ]
+ },
+ {
+  "q": "Why is clean architecture beneficial?",
+  "o": {
+   "A": "Fewer files",
+   "B": "Easier maintenance and testing",
+   "C": "Better UI",
+   "D": "Faster builds"
+  },
+  "a": "B",
+  "id": "q049",
+  "src": [
+   "SP26_Final · IMG_0006",
+   "SU26_Final · IMG_9212"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is Dart primarily designed for in the Flutter ecosystem?",
+  "o": {
+   "A": "Database management",
+   "B": "User interface development",
+   "C": "General-purpose programming with UI focus",
+   "D": "Network security"
+  },
+  "a": "C",
+  "id": "q050",
+  "src": [
+   "SP26_Final · IMG_0007",
+   "SU26_Final · IMG_9213"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why is secure authentication critical in mobile apps?",
+  "o": {
+   "A": "UI quality",
+   "B": "Protect user data",
+   "C": "Reduce code",
+   "D": "Improve speed"
+  },
+  "a": "B",
+  "id": "q051",
+  "src": [
+   "SP26_Final · IMG_0008",
+   "SU26_Final · IMG_9231"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which HTTP method is typically used to retrieve data?",
+  "o": {
+   "A": "POST",
+   "B": "PUT",
+   "C": "GET",
+   "D": "DELETE"
+  },
+  "a": "C",
+  "id": "q052",
+  "src": [
+   "SP26_Final · IMG_0009",
+   "SU26_B5 · IMG_9170",
+   "SU26_Retake · IMG_9130"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What happens if a non-nullable variable is not initialized in Dart?",
+  "o": {
+   "A": "The app runs normally",
+   "B": "A runtime exception occurs",
+   "C": "A compile-time error occurs",
+   "D": "The value becomes null automatically"
+  },
+  "a": "C",
+  "id": "q053",
+  "src": [
+   "SP26_Final · IMG_0010",
+   "SU26_Final · IMG_9217"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which command builds a release APK?",
+  "o": {
+   "A": "flutter run",
+   "B": "flutter build apk",
+   "C": "flutter doctor",
+   "D": "flutter clean"
+  },
+  "a": "B",
+  "id": "q054",
+  "src": [
+   "SP26_Final · IMG_0011",
+   "SU26_Final · IMG_9208"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which widget allows overlapping of its child widgets?",
+  "o": {
+   "A": "Column",
+   "B": "Row",
+   "C": "Stack",
+   "D": "Expanded"
+  },
+  "a": "C",
+  "id": "q055",
+  "src": [
+   "SP26_Final · IMG_0012"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which platforms can Flutter applications target using a single codebase?",
+  "o": {
+   "A": "Android only",
+   "B": "iOS only",
+   "C": "Android, iOS, web, and desktop",
+   "D": "Web servers only"
+  },
+  "a": "C",
+  "id": "q056",
+  "src": [
+   "SP26_Final · IMG_0013",
+   "SU26_Final · IMG_9222",
+   "SU26_Retake · IMG_9151"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the main risk of improper state management?",
+  "o": {
+   "A": "UI inconsistency",
+   "B": "Longer compile time",
+   "C": "Package conflicts",
+   "D": "Build errors"
+  },
+  "a": "A",
+  "id": "q057",
+  "src": [
+   "SP26_Final · IMG_0014",
+   "SU26_B5 · IMG_9194"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What does CurvedAnimation provide?",
+  "o": {
+   "A": "Layout control",
+   "B": "Animation curve behavior",
+   "C": "State updates",
+   "D": "Navigation"
+  },
+  "a": "B",
+  "id": "q058",
+  "src": [
+   "SP26_Final · IMG_0015"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "How can data be passed to a new screen?",
+  "o": {
+   "A": "Using global variables",
+   "B": "Via constructor arguments",
+   "C": "Using ThemeData",
+   "D": "Using Scaffold"
+  },
+  "a": "B",
+  "id": "q059",
+  "src": [
+   "SP26_Final · IMG_0016",
+   "SU26_B5 · IMG_9169",
+   "SU26_Retake · IMG_9142"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the purpose of parsing JSON?",
+  "o": {
+   "A": "Encrypt data",
+   "B": "Convert JSON into Dart objects",
+   "C": "Send requests",
+   "D": "Cache responses"
+  },
+  "a": "B",
+  "id": "q060",
+  "src": [
+   "SP26_Final · IMG_0017"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which phase involves gathering requirements?",
+  "o": {
+   "A": "Implementation",
+   "B": "Design",
+   "C": "Analysis",
+   "D": "Testing"
+  },
+  "a": "C",
+  "id": "q061",
+  "src": [
+   "SP26_Final · IMG_0018"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which Flutter tool helps debug network requests?",
+  "o": {
+   "A": "DevTools",
+   "B": "Inspector",
+   "C": "Emulator",
+   "D": "Hot reload"
+  },
+  "a": "A",
+  "id": "q062",
+  "src": [
+   "SP26_Final · IMG_0019",
+   "SU26_Final · IMG_9221"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which Dart feature supports object-oriented programming?",
+  "o": {
+   "A": "Widgets",
+   "B": "Classes and objects",
+   "C": "Hot reload",
+   "D": "Layout builders"
+  },
+  "a": "B",
+  "id": "q063",
+  "src": [
+   "SP26_Final · IMG_0020",
+   "SU26_Final · IMG_9204"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which approach helps reduce unnecessary widget rebuilds?",
+  "o": {
+   "A": "Using global variables",
+   "B": "Fine-grained state updates",
+   "C": "Hot restart",
+   "D": "Large widgets"
+  },
+  "a": "B",
+  "id": "q064",
+  "src": [
+   "SP26_Final · IMG_0021",
+   "SU26_B5 · IMG_9196"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which action best demonstrates Flutter's reactive UI model?",
+  "o": {
+   "A": "Manually updating UI elements",
+   "B": "Rebuilding UI in response to state changes",
+   "C": "Editing layout XML",
+   "D": "Calling native APIs"
+  },
+  "a": "B",
+  "id": "q065",
+  "src": [
+   "SP26_Final · IMG_0022"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Why are const widgets recommended?",
+  "o": {
+   "A": "They improve readability",
+   "B": "They reduce rebuild cost",
+   "C": "They add state",
+   "D": "They handle navigation"
+  },
+  "a": "B",
+  "id": "q066",
+  "src": [
+   "SP26_Final · IMG_0023",
+   "SU26_B5 · IMG_9203",
+   "SU26_Retake · IMG_9119"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why should animations be disposed properly?",
+  "o": {
+   "A": "Improve UI",
+   "B": "Prevent memory leaks",
+   "C": "Speed up builds",
+   "D": "Fix layout"
+  },
+  "a": "B",
+  "id": "q067",
+  "src": [
+   "SP26_Final · IMG_0024",
+   "SU26_B5 · IMG_9159",
+   "SU26_Retake · IMG_9146"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which Flutter test focuses on UI components?",
+  "o": {
+   "A": "Unit test",
+   "B": "Widget test",
+   "C": "Integration test",
+   "D": "Load test"
+  },
+  "a": "B",
+  "id": "q068",
+  "src": [
+   "SP26_Final · IMG_0025",
+   "SU26_Final · IMG_9215"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why should database operations be asynchronous?",
+  "o": {
+   "A": "Simplify syntax",
+   "B": "Avoid blocking UI thread",
+   "C": "Reduce code",
+   "D": "Improve theme"
+  },
+  "a": "B",
+  "id": "q069",
+  "src": [
+   "SP26_Final · IMG_0026",
+   "SU26_B5 · IMG_9162",
+   "SU26_Retake · IMG_9139"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why is Chapter 13 considered optional (Plus)?",
+  "o": {
+   "A": "It replaces core concepts",
+   "B": "Apps can work without deep optimization",
+   "C": "It manages navigation",
+   "D": "It handles authentication"
+  },
+  "a": "B",
+  "id": "q070",
+  "src": [
+   "SP26_Final · IMG_0027"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which widget applies a theme to an entire Flutter application?",
+  "o": {
+   "A": "Scaffold",
+   "B": "Theme",
+   "C": "MaterialApp",
+   "D": "Container"
+  },
+  "a": "C",
+  "id": "q071",
+  "src": [
+   "SP26_Final · IMG_0028"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which widget is best used to add fixed empty space?",
+  "o": {
+   "A": "Padding",
+   "B": "Expanded",
+   "C": "SizedBox",
+   "D": "Container"
+  },
+  "a": "C",
+  "id": "q072",
+  "src": [
+   "SP26_Final · IMG_0030",
+   "SU26_Retake · IMG_9147"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which package supports BLoC architecture?",
+  "o": {
+   "A": "provider",
+   "B": "flutter_bloc",
+   "C": "sqflite",
+   "D": "http"
+  },
+  "a": "B",
+  "id": "q073",
+  "src": [
+   "SP26_Final · IMG_0031",
+   "SU26_B5 · IMG_9160"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which Flutter widget reacts to authentication state changes?",
+  "o": {
+   "A": "FutureBuilder",
+   "B": "StreamBuilder",
+   "C": "ListView",
+   "D": "Form"
+  },
+  "a": "B",
+  "id": "q074",
+  "src": [
+   "SP26_Final · IMG_0032",
+   "SU26_Final · IMG_9249"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is technical debt?",
+  "o": {
+   "A": "UI lag",
+   "B": "Future cost of poor design decisions",
+   "C": "Memory usage",
+   "D": "API limit"
+  },
+  "a": "B",
+  "id": "q075",
+  "src": [
+   "SP26_Final · IMG_0033"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "What is implicit animation?",
+  "o": {
+   "A": "Manual animation control",
+   "B": "Animation without controller",
+   "C": "API animation",
+   "D": "Navigation animation"
+  },
+  "a": "B",
+  "id": "q076",
+  "src": [
+   "SP26_Final · IMG_0034",
+   "SU26_B5 · IMG_9171"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which Dart data structure is best suited for storing an ordered collection of items?",
+  "o": {
+   "A": "Set",
+   "B": "Map",
+   "C": "List",
+   "D": "Queue"
+  },
+  "a": "C",
+  "id": "q077",
+  "src": [
+   "SP26_Final · IMG_0035",
+   "SU26_Final · IMG_9248"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which Flutter concept supports reactive UI updates?",
+  "o": {
+   "A": "Manual refresh",
+   "B": "Widget rebuilding",
+   "C": "Hot restart",
+   "D": "Native callbacks"
+  },
+  "a": "B",
+  "id": "q078",
+  "src": [
+   "SP26_Final · IMG_0036"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which type of test checks individual functions or classes?",
+  "o": {
+   "A": "Widget test",
+   "B": "Integration test",
+   "C": "Unit test",
+   "D": "System test"
+  },
+  "a": "C",
+  "id": "q079",
+  "src": [
+   "SP26_Final · IMG_0037"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "What is the role of events in BLoC?",
+  "o": {
+   "A": "Store UI",
+   "B": "Trigger state changes",
+   "C": "Render widgets",
+   "D": "Handle layout"
+  },
+  "a": "B",
+  "id": "q080",
+  "src": [
+   "SP26_Final · IMG_0038",
+   "SU26_B5 · IMG_9161"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What is the main purpose of hot reload in Flutter?",
+  "o": {
+   "A": "Improve runtime performance",
+   "B": "Instantly reflect code changes in UI",
+   "C": "Publish apps faster",
+   "D": "Reduce memory usage"
+  },
+  "a": "B",
+  "id": "q081",
+  "src": [
+   "SP26_Final · IMG_0039",
+   "SU26_B5 · IMG_9179",
+   "SU26_Retake · IMG_9138"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why are forms important in mobile applications?",
+  "o": {
+   "A": "UI decoration",
+   "B": "User data collection",
+   "C": "State management",
+   "D": "Navigation"
+  },
+  "a": "B",
+  "id": "q082",
+  "src": [
+   "SP26_Final · IMG_0040",
+   "SU26_Final · IMG_9242"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which method retrieves data from SharedPreferences?",
+  "o": {
+   "A": "get()",
+   "B": "read()",
+   "C": "fetch()",
+   "D": "load()"
+  },
+  "a": "A",
+  "id": "q083",
+  "src": [
+   "SP26_Final · IMG_0041",
+   "SU26_Final · IMG_9205"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the main benefit of Flutter's widget-based architecture?",
+  "o": {
+   "A": "Widgets are only used for layout design",
+   "B": "Widgets allow code reuse across platforms",
+   "C": "Widgets automatically manage databases",
+   "D": "Widgets replace backend services"
+  },
+  "a": "B",
+  "id": "q084",
+  "src": [
+   "SP26_Final · IMG_0042",
+   "SU26_Final · IMG_9247"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why are widgets lightweight in Flutter?",
+  "o": {
+   "A": "They manage system resources",
+   "B": "They are immutable descriptions",
+   "C": "They store UI state",
+   "D": "They handle rendering directly"
+  },
+  "a": "B",
+  "id": "q085",
+  "src": [
+   "SP26_Final · IMG_0043",
+   "SU26_Final · IMG_9224"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why should authentication state be centralized?",
+  "o": {
+   "A": "Reduce UI code",
+   "B": "Ensure consistent access control",
+   "C": "Improve animations",
+   "D": "Simplify layout"
+  },
+  "a": "B",
+  "id": "q086",
+  "src": [
+   "SP26_Final · IMG_0044",
+   "SU26_B5 · IMG_9201",
+   "SU26_Retake · IMG_9131"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget can hide user input text when configured for password entry?",
+  "o": {
+   "A": "TextField",
+   "B": "ObscureText",
+   "C": "SecureInput",
+   "D": "PasswordField"
+  },
+  "a": "A",
+  "id": "q087",
+  "src": [
+   "SP26_Final · IMG_0045",
+   "SU26_Retake · IMG_9127"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is Flutter primarily used for?",
+  "o": {
+   "A": "Designing databases for mobile apps",
+   "B": "Creating native applications from a single codebase",
+   "C": "Developing server-side applications only",
+   "D": "Building operating systems for mobile devices"
+  },
+  "a": "B",
+  "id": "q088",
+  "src": [
+   "SP26_Final · IMG_0046",
+   "SU26_Final · IMG_9206"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which method resets all form fields?",
+  "o": {
+   "A": "clear()",
+   "B": "reset()",
+   "C": "dispose()",
+   "D": "remove()"
+  },
+  "a": "B",
+  "id": "q089",
+  "src": [
+   "SP26_Final · IMG_0047",
+   "SU26_Final · IMG_9230"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which Dart keyword is used to define a constant value at compile time?",
+  "o": {
+   "A": "final",
+   "B": "static",
+   "C": "const",
+   "D": "var"
+  },
+  "a": "C",
+  "id": "q090",
+  "src": [
+   "SP26_Final · IMG_0048",
+   "SU26_B5 · IMG_9198",
+   "SU26_Retake · IMG_9132"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What happens after successful login?",
+  "o": {
+   "A": "App closes",
+   "B": "User session starts",
+   "C": "Theme changes",
+   "D": "Navigation resets"
+  },
+  "a": "B",
+  "id": "q091",
+  "src": [
+   "SP26_Final · IMG_0049",
+   "SU26_Final · IMG_9209"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which step is required before running a Flutter app for the first time?",
+  "o": {
+   "A": "Publishing the app",
+   "B": "Setting up the Flutter SDK",
+   "C": "Configuring a database",
+   "D": "Writing backend APIs"
+  },
+  "a": "B",
+  "id": "q092",
+  "src": [
+   "SP26_Final · IMG_0050",
+   "SU26_Final · IMG_9252"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What does golden testing verify?",
+  "o": {
+   "A": "API responses",
+   "B": "UI appearance consistency",
+   "C": "Database state",
+   "D": "Authentication"
+  },
+  "a": "B",
+  "id": "q093",
+  "src": [
+   "SP26_Final · IMG_0052",
+   "SU26_Final · IMG_9220"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why should state be kept as local as possible?",
+  "o": {
+   "A": "Better animations",
+   "B": "Reduce unnecessary rebuilds",
+   "C": "Simplify UI",
+   "D": "Improve navigation"
+  },
+  "a": "B",
+  "id": "q094",
+  "src": [
+   "SP26_Final · IMG_0053",
+   "SU26_Final · IMG_9207"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the benefit of composing widgets in Flutter?",
+  "o": {
+   "A": "Faster compilation",
+   "B": "Better code reuse and UI consistency",
+   "C": "Reduced memory usage",
+   "D": "Automatic navigation"
+  },
+  "a": "B",
+  "id": "q095",
+  "src": [
+   "SP26_Final · IMG_0054"
+  ],
+  "sets": [
+   "SP26_Final"
+  ]
+ },
+ {
+  "q": "Which status code indicates server error?",
+  "o": {
+   "A": "200",
+   "B": "301",
+   "C": "404",
+   "D": "500"
+  },
+  "a": "D",
+  "id": "q096",
+  "src": [
+   "SP26_Final · IMG_0055",
+   "SU26_B5 · IMG_9200"
+  ],
+  "sets": [
+   "SP26_Final",
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which method saves an integer in SharedPreferences?",
+  "o": {
+   "A": "saveInt()",
+   "B": "putInt()",
+   "C": "setInt()",
+   "D": "writeInt()"
+  },
+  "a": "C",
+  "id": "q097",
+  "src": [
+   "SU26_B5 · IMG_9154"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What is the purpose of the Flutter SDK?",
+  "o": {
+   "A": "To store application data permanently",
+   "B": "To provide tools and libraries for Flutter development",
+   "C": "To deploy applications directly to app stores",
+   "D": "To replace the operating system of a device"
+  },
+  "a": "B",
+  "id": "q098",
+  "src": [
+   "SU26_B5 · IMG_9155",
+   "SU26_Retake · IMG_9148"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the primary role of widgets in Flutter?",
+  "o": {
+   "A": "Managing databases",
+   "B": "Describing the user interface",
+   "C": "Handling network requests",
+   "D": "Compiling Dart code"
+  },
+  "a": "B",
+  "id": "q099",
+  "src": [
+   "SU26_B5 · IMG_9158"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Why is logout functionality important?",
+  "o": {
+   "A": "Free memory",
+   "B": "End user session securely",
+   "C": "Improve UI",
+   "D": "Change theme"
+  },
+  "a": "B",
+  "id": "q100",
+  "src": [
+   "SU26_B5 · IMG_9163",
+   "SU26_Retake · IMG_9114"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which keyword is used in Dart to pause execution until a Future completes?",
+  "o": {
+   "A": "async",
+   "B": "await",
+   "C": "future",
+   "D": "delay"
+  },
+  "a": "B",
+  "id": "q101",
+  "src": [
+   "SU26_B5 · IMG_9166"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which Flutter service simplifies authentication implementation?",
+  "o": {
+   "A": "sqflite",
+   "B": "Firebase Authentication",
+   "C": "Provider",
+   "D": "http"
+  },
+  "a": "B",
+  "id": "q102",
+  "src": [
+   "SU26_B5 · IMG_9168",
+   "SU26_Retake · IMG_9145"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is one of the main advantages of Flutter?",
+  "o": {
+   "A": "Requires separate codebases for Android and iOS",
+   "B": "Uses JavaScript as its primary language",
+   "C": "Enables building apps from a single codebase for multiple platforms",
+   "D": "Only supports mobile platforms"
+  },
+  "a": "C",
+  "id": "q103",
+  "src": [
+   "SU26_B5 · IMG_9172"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What format is most commonly used in REST APIs?",
+  "o": {
+   "A": "XML",
+   "B": "CSV",
+   "C": "JSON",
+   "D": "Binary"
+  },
+  "a": "C",
+  "id": "q104",
+  "src": [
+   "SU26_B5 · IMG_9174"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What is the main concept behind navigation in Flutter using the Navigator widget?",
+  "o": {
+   "A": "Screens are arranged in a grid layout",
+   "B": "Screens are managed using a stack (push and pop)",
+   "C": "Screens are loaded randomly",
+   "D": "Screens are replaced automatically without control"
+  },
+  "a": "B",
+  "id": "q105",
+  "src": [
+   "SU26_B5 · IMG_9175"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What is the main limitation of SharedPreferences?",
+  "o": {
+   "A": "Cannot persist data",
+   "B": "Only works on web",
+   "C": "Not suitable for large or complex data",
+   "D": "Requires SQL queries"
+  },
+  "a": "C",
+  "id": "q106",
+  "src": [
+   "SU26_B5 · IMG_9176"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What design principle improves form usability?",
+  "o": {
+   "A": "Long forms",
+   "B": "Minimal validation",
+   "C": "Clear labels and feedback",
+   "D": "Hidden errors"
+  },
+  "a": "C",
+  "id": "q107",
+  "src": [
+   "SU26_B5 · IMG_9180"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which practice improves authentication security?",
+  "o": {
+   "A": "Storing passwords locally",
+   "B": "Encrypting credentials",
+   "C": "Using HTTP",
+   "D": "Hardcoding tokens"
+  },
+  "a": "B",
+  "id": "q108",
+  "src": [
+   "SU26_B5 · IMG_9182"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "What does the Padding widget do?",
+  "o": {
+   "A": "Adds space inside a widget",
+   "B": "Adds space between widgets",
+   "C": "Aligns widgets",
+   "D": "Controls widget size"
+  },
+  "a": "A",
+  "id": "q109",
+  "src": [
+   "SU26_B5 · IMG_9184"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Why should navigation logic be well-structured?",
+  "o": {
+   "A": "Reduce UI size",
+   "B": "Improve maintainability",
+   "C": "Increase speed",
+   "D": "Avoid widgets"
+  },
+  "a": "B",
+  "id": "q110",
+  "src": [
+   "SU26_B5 · IMG_9186",
+   "SU26_Retake · IMG_9113"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the purpose of onSaved callback?",
+  "o": {
+   "A": "Validate input",
+   "B": "Store form values",
+   "C": "Reset form",
+   "D": "Display errors"
+  },
+  "a": "B",
+  "id": "q111",
+  "src": [
+   "SU26_B5 · IMG_9187"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which feature of Dart helps prevent null reference errors at compile time?",
+  "o": {
+   "A": "Dynamic typing",
+   "B": "Hot reload",
+   "C": "Null safety",
+   "D": "Asynchronous execution"
+  },
+  "a": "C",
+  "id": "q112",
+  "src": [
+   "SU26_B5 · IMG_9188",
+   "SU26_Retake · IMG_9120"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which sliver is commonly used to display a scrolling list?",
+  "o": {
+   "A": "SliverGrid",
+   "B": "SliverList",
+   "C": "SliverAppBar",
+   "D": "SliverFillRemaining"
+  },
+  "a": "B",
+  "id": "q113",
+  "src": [
+   "SU26_B5 · IMG_9189",
+   "SU26_Retake · IMG_9128"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "In Flutter architecture, which layer is responsible for rendering and uses C++ with Skia?",
+  "o": {
+   "A": "Framework Layer",
+   "B": "Engine Layer",
+   "C": "Embedder Layer",
+   "D": "Widget Layer"
+  },
+  "a": "B",
+  "id": "q114",
+  "src": [
+   "SU26_B5 · IMG_9190"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which curve creates a bounce effect?",
+  "o": {
+   "A": "linear",
+   "B": "easeIn",
+   "C": "bounceOut",
+   "D": "decelerate"
+  },
+  "a": "C",
+  "id": "q115",
+  "src": [
+   "SU26_B5 · IMG_9191",
+   "SU26_Retake · IMG_9136"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which programming language is used to develop Flutter applications?",
+  "o": {
+   "A": "Kotlin",
+   "B": "Swift",
+   "C": "Dart",
+   "D": "JavaScript"
+  },
+  "a": "C",
+  "id": "q116",
+  "src": [
+   "SU26_B5 · IMG_9192",
+   "SU26_Retake · IMG_9117"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "According to the testing pyramid, which type of test should be used the least?",
+  "o": {
+   "A": "Unit Tests",
+   "B": "Widget Tests",
+   "C": "Integration Tests",
+   "D": "Debug Tests"
+  },
+  "a": "C",
+  "id": "q117",
+  "src": [
+   "SU26_B5 · IMG_9195"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which component is required to run and test Flutter applications on a local machine?",
+  "o": {
+   "A": "A cloud hosting service",
+   "B": "A physical server",
+   "C": "An emulator or physical device",
+   "D": "A database management system"
+  },
+  "a": "C",
+  "id": "q118",
+  "src": [
+   "SU26_B5 · IMG_9197",
+   "SU26_Retake · IMG_9106"
+  ],
+  "sets": [
+   "SU26_B5",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget is primarily used as the structural foundation of a Material Design screen in Flutter?",
+  "o": {
+   "A": "Container",
+   "B": "Scaffold",
+   "C": "Column",
+   "D": "ListView"
+  },
+  "a": "B",
+  "id": "q119",
+  "src": [
+   "SU26_B5 · IMG_9199"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which package is commonly used for Flutter testing?",
+  "o": {
+   "A": "flutter_test",
+   "B": "provider",
+   "C": "http",
+   "D": "sqflite"
+  },
+  "a": "A",
+  "id": "q120",
+  "src": [
+   "SU26_B5 · IMG_9202"
+  ],
+  "sets": [
+   "SU26_B5"
+  ]
+ },
+ {
+  "q": "Which widget is an example of implicit animation?",
+  "o": {
+   "A": "AnimatedContainer",
+   "B": "AnimationController",
+   "C": "Tween",
+   "D": "Ticker"
+  },
+  "a": "A",
+  "id": "q121",
+  "src": [
+   "SU26_Final · IMG_9210"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the primary responsibility of the setState() method?",
+  "o": {
+   "A": "Persist data",
+   "B": "Trigger widget rebuild",
+   "C": "Navigate screens",
+   "D": "Handle async tasks"
+  },
+  "a": "B",
+  "id": "q122",
+  "src": [
+   "SU26_Final · IMG_9211"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What causes unnecessary widget rebuilds?",
+  "o": {
+   "A": "State changes",
+   "B": "Overusing setState()",
+   "C": "Using Provider",
+   "D": "Using const widgets"
+  },
+  "a": "B",
+  "id": "q123",
+  "src": [
+   "SU26_Final · IMG_9216"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What problem does state hoisting address?",
+  "o": {
+   "A": "API delay",
+   "B": "State duplication",
+   "C": "Theme conflict",
+   "D": "Navigation error"
+  },
+  "a": "B",
+  "id": "q124",
+  "src": [
+   "SU26_Final · IMG_9225"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What happens when setState() is called in a StatefulWidget?",
+  "o": {
+   "A": "The app restarts",
+   "B": "The widget tree is rebuilt",
+   "C": "Data is saved permanently",
+   "D": "Navigation occurs"
+  },
+  "a": "B",
+  "id": "q125",
+  "src": [
+   "SU26_Final · IMG_9226"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which pattern is commonly used for scalable state management?",
+  "o": {
+   "A": "MVC",
+   "B": "BLoC",
+   "C": "Singleton",
+   "D": "Factory"
+  },
+  "a": "B",
+  "id": "q126",
+  "src": [
+   "SU26_Final · IMG_9227"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which input type improves user experience for emails?",
+  "o": {
+   "A": "TextInputType.number",
+   "B": "TextInputType.emailAddress",
+   "C": "TextInputType.text",
+   "D": "TextInputType.url"
+  },
+  "a": "B",
+  "id": "q127",
+  "src": [
+   "SU26_Final · IMG_9228"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which widget allows both scrolling and app bars to interact?",
+  "o": {
+   "A": "ListView",
+   "B": "CustomScrollView",
+   "C": "GridView",
+   "D": "Stack"
+  },
+  "a": "B",
+  "id": "q128",
+  "src": [
+   "SU26_Final · IMG_9229"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which HTTP method is used to send new data to a server?",
+  "o": {
+   "A": "GET",
+   "B": "DELETE",
+   "C": "POST",
+   "D": "HEAD"
+  },
+  "a": "C",
+  "id": "q129",
+  "src": [
+   "SU26_Final · IMG_9232"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the main goal of performance optimization in Flutter apps?",
+  "o": {
+   "A": "Improve UI colors",
+   "B": "Ensure smooth and responsive UI",
+   "C": "Reduce code size",
+   "D": "Add features"
+  },
+  "a": "B",
+  "id": "q130",
+  "src": [
+   "SU26_Final · IMG_9233",
+   "SU26_Retake · IMG_9149"
+  ],
+  "sets": [
+   "SU26_Final",
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What does the final keyword indicate in Dart?",
+  "o": {
+   "A": "The variable can be reassigned later",
+   "B": "The variable value is fixed after assignment",
+   "C": "The variable is global",
+   "D": "The variable is private"
+  },
+  "a": "B",
+  "id": "q131",
+  "src": [
+   "SU26_Final · IMG_9235"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What does status code 200 indicate?",
+  "o": {
+   "A": "Client error",
+   "B": "Server error",
+   "C": "Success",
+   "D": "Redirect"
+  },
+  "a": "C",
+  "id": "q132",
+  "src": [
+   "SU26_Final · IMG_9236"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the role of v-sync in Flutter?",
+  "o": {
+   "A": "Sync data",
+   "B": "Optimize animation resources",
+   "C": "Control layout",
+   "D": "Handle navigation"
+  },
+  "a": "B",
+  "id": "q133",
+  "src": [
+   "SU26_Final · IMG_9239"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the main goal of testing in Flutter apps?",
+  "o": {
+   "A": "Improve UI design",
+   "B": "Ensure app quality and correctness",
+   "C": "Speed up builds",
+   "D": "Manage state"
+  },
+  "a": "B",
+  "id": "q134",
+  "src": [
+   "SU26_Final · IMG_9240"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why is understanding the widget lifecycle important?",
+  "o": {
+   "A": "Improve API performance",
+   "B": "Manage UI updates correctly",
+   "C": "Deploy apps faster",
+   "D": "Reduce file size"
+  },
+  "a": "B",
+  "id": "q135",
+  "src": [
+   "SU26_Final · IMG_9241"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "When is it most appropriate to customize themes in a Flutter app?",
+  "o": {
+   "A": "After API integration",
+   "B": "During UI/UX design phase",
+   "C": "Only at deployment",
+   "D": "Only for testing"
+  },
+  "a": "B",
+  "id": "q136",
+  "src": [
+   "SU26_Final · IMG_9244"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Why is passing context important in navigation?",
+  "o": {
+   "A": "Access theme",
+   "B": "Access Navigator",
+   "C": "Access state",
+   "D": "Access layout"
+  },
+  "a": "B",
+  "id": "q137",
+  "src": [
+   "SU26_Final · IMG_9246"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which widget rebuilds automatically during animation?",
+  "o": {
+   "A": "AnimatedBuilder",
+   "B": "FutureBuilder",
+   "C": "StreamBuilder",
+   "D": "LayoutBuilder"
+  },
+  "a": "A",
+  "id": "q138",
+  "src": [
+   "SU26_Final · IMG_9250"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What is the main purpose of the Container widget?",
+  "o": {
+   "A": "Navigation",
+   "B": "Layout, styling, and positioning",
+   "C": "State management",
+   "D": "Network requests"
+  },
+  "a": "B",
+  "id": "q139",
+  "src": [
+   "SU26_Final · IMG_9251"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "Which practice improves API security?",
+  "o": {
+   "A": "Hardcoding keys",
+   "B": "Using HTTPS",
+   "C": "Ignoring errors",
+   "D": "Using globals"
+  },
+  "a": "B",
+  "id": "q140",
+  "src": [
+   "SU26_Final · IMG_9253"
+  ],
+  "sets": [
+   "SU26_Final"
+  ]
+ },
+ {
+  "q": "What type of data is SharedPreferences best suited for?",
+  "o": {
+   "A": "Large datasets",
+   "B": "Simple primitive values",
+   "C": "Images",
+   "D": "Complex objects"
+  },
+  "a": "B",
+  "id": "q141",
+  "src": [
+   "SU26_Retake · IMG_9104"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the main purpose of app architecture?",
+  "o": {
+   "A": "UI design",
+   "B": "Organize code structure",
+   "C": "Improve animations",
+   "D": "Handle API"
+  },
+  "a": "B",
+  "id": "q142",
+  "src": [
+   "SU26_Retake · IMG_9105"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What does REST stand for?",
+  "o": {
+   "A": "Remote State Transfer",
+   "B": "Representational State Transfer",
+   "C": "Reactive Service Transport",
+   "D": "Request State Transfer"
+  },
+  "a": "B",
+  "id": "q143",
+  "src": [
+   "SU26_Retake · IMG_9107"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What does Navigator pop() do?",
+  "o": {
+   "A": "Open a new screen",
+   "B": "Close current screen",
+   "C": "Restart app",
+   "D": "Clear stack"
+  },
+  "a": "B",
+  "id": "q144",
+  "src": [
+   "SU26_Retake · IMG_9109"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which pattern separates storage logic from UI?",
+  "o": {
+   "A": "MVC",
+   "B": "Repository pattern",
+   "C": "Singleton",
+   "D": "Factory"
+  },
+  "a": "B",
+  "id": "q145",
+  "src": [
+   "SU26_Retake · IMG_9111"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What is the purpose of building a release version of a Flutter app?",
+  "o": {
+   "A": "Debug code",
+   "B": "Prepare app for distribution",
+   "C": "Test UI",
+   "D": "Change theme"
+  },
+  "a": "B",
+  "id": "q146",
+  "src": [
+   "SU26_Retake · IMG_9112"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why is the widget tree considered immutable?",
+  "o": {
+   "A": "Widgets cannot be removed",
+   "B": "Widgets are recreated instead of modified",
+   "C": "Widgets are stored permanently",
+   "D": "Widgets cannot contain data"
+  },
+  "a": "B",
+  "id": "q147",
+  "src": [
+   "SU26_Retake · IMG_9118"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "When should you prefer Provider over setState()?",
+  "o": {
+   "A": "For simple UI updates",
+   "B": "For global or shared state",
+   "C": "For animations",
+   "D": "For navigation"
+  },
+  "a": "B",
+  "id": "q148",
+  "src": [
+   "SU26_Retake · IMG_9121"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What advantage does a single codebase provide in Flutter development?",
+  "o": {
+   "A": "Higher memory usage",
+   "B": "Simpler UI customization",
+   "C": "Reduced development and maintenance effort",
+   "D": "Automatic database synchronization"
+  },
+  "a": "C",
+  "id": "q149",
+  "src": [
+   "SU26_Retake · IMG_9122"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget is commonly used as the root of a Flutter app?",
+  "o": {
+   "A": "Scaffold",
+   "B": "MaterialApp",
+   "C": "Container",
+   "D": "Column"
+  },
+  "a": "B",
+  "id": "q150",
+  "src": [
+   "SU26_Retake · IMG_9123"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What triggers a rebuild of a widget?",
+  "o": {
+   "A": "Navigation only",
+   "B": "Calling setState()",
+   "C": "Restarting the IDE",
+   "D": "Changing the SDK"
+  },
+  "a": "B",
+  "id": "q151",
+  "src": [
+   "SU26_Retake · IMG_9125"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What does BLoC stand for?",
+  "o": {
+   "A": "Business Logic Component",
+   "B": "Backend Logic Controller",
+   "C": "Build Logic Component",
+   "D": "Basic Logic Controller"
+  },
+  "a": "A",
+  "id": "q152",
+  "src": [
+   "SU26_Retake · IMG_9126"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "What happens if form validation fails?",
+  "o": {
+   "A": "Form submits",
+   "B": "Error messages are shown",
+   "C": "App crashes",
+   "D": "Data is saved"
+  },
+  "a": "B",
+  "id": "q153",
+  "src": [
+   "SU26_Retake · IMG_9129"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which status code indicates resource not found?",
+  "o": {
+   "A": "200",
+   "B": "301",
+   "C": "404",
+   "D": "500"
+  },
+  "a": "C",
+  "id": "q154",
+  "src": [
+   "SU26_Retake · IMG_9133"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget is most commonly used to arrange children vertically?",
+  "o": {
+   "A": "Row",
+   "B": "Stack",
+   "C": "Column",
+   "D": "Expanded"
+  },
+  "a": "C",
+  "id": "q155",
+  "src": [
+   "SU26_Retake · IMG_9135"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which test runs fastest?",
+  "o": {
+   "A": "Integration test",
+   "B": "Widget test",
+   "C": "Unit test",
+   "D": "Manual test"
+  },
+  "a": "C",
+  "id": "q156",
+  "src": [
+   "SU26_Retake · IMG_9137"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Why should API responses be mapped to models?",
+  "o": {
+   "A": "Reduce JSON size",
+   "B": "Ensure type safety",
+   "C": "Speed up UI",
+   "D": "Improve theme"
+  },
+  "a": "B",
+  "id": "q157",
+  "src": [
+   "SU26_Retake · IMG_9141"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ },
+ {
+  "q": "Which widget is suitable for displaying items in a grid layout?",
+  "o": {
+   "A": "ListView",
+   "B": "Column",
+   "C": "GridView",
+   "D": "Stack"
+  },
+  "a": "C",
+  "id": "q158",
+  "src": [
+   "SU26_Retake · IMG_9150"
+  ],
+  "sets": [
+   "SU26_Retake"
+  ]
+ }
+]
